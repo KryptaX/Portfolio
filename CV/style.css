@@ -1,0 +1,99 @@
+body
+{
+	background-color: #333333;
+	font-family: sans-serif;
+	color: FFFFFF;
+	text-align: justify;
+}
+
+#container
+{
+	margin: auto;
+}
+
+#logo
+{
+	background-color: #1AA3ff;
+	text-align: center;
+	padding: 1px;
+	font-size: 12px;
+
+}
+#dane
+{
+	
+	width: 30%;
+	padding: 1%;
+	float: left;
+} 
+#education 
+{
+	float: left;
+	width: 67%;
+	padding: 0.46%;
+}
+#experience 
+{
+	
+	float: left;
+	width: 67%;
+	padding: 0.46%;
+}
+#skills
+{
+	
+	float: left;
+	width: 67%;
+	padding: 0.46%;
+}
+
+#stopka
+{
+	clear: both;
+	text-align: center;
+	background-color: #1AA3FF;
+	padding: 0.5%;
+	color: #FFFFFF;
+	font-size: 15px;
+}
+
+h1
+{
+	letter-spacing: 10px;
+}
+
+h3
+{
+	color: #1AA3FF;
+}
+
+b
+{
+	color: #1AA3D0;
+}
+
+a
+{
+	text-decoration: none;
+}
+a:link
+{
+	color: #33CC33;
+}
+a:hover
+{
+	color: #FF9900;
+}
+a:visited
+{
+	color: #FFFFFF;
+}
+a:active
+{
+	color: #009944;
+}
+
+img
+{
+	border: 2px solid #1AA3FF;
+}

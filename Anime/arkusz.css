@@ -1,0 +1,119 @@
+body
+{
+	background-color: #E6E6E6;
+	font-family: Florence, cursive !Important;
+	text-align: justify;
+}
+
+
+/* Definition of div's id */
+#container
+{
+	height: auto; 
+	width: auto;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+
+#logo
+{
+	padding: 10px;
+}
+
+#nav
+{
+	font-size: 20px;
+	float: left;
+	width: 23%;
+	height: 25%;
+	padding-top: 15px;
+
+}
+
+#content
+{
+	float: left;
+	width: 75%;
+	height: 25%;
+	padding: 10px;
+}
+
+#list
+{
+	clear: both;
+	width: 100%;
+	text-align: left;
+}
+
+#footer
+{
+	text-align: center;
+	width: 100%;
+}
+
+
+ /* Definition classes */
+ .profil 
+ {
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+ }
+ 
+ .without 
+ {
+	list-style-type: none;
+ }
+ 
+ .mov 
+ {
+	font-size: 50px;
+ }
+ 
+ .small
+{
+	width: 70px;
+	height: 40px;
+	text-align: center;
+}
+ 
+ 
+ b:hover
+ {
+	color: #FF9933;
+	cursor: pointer;
+ }
+ 
+ h3
+ {
+	color: #2D2D86;
+ }
+ 
+ a
+ {
+	cursor: pointer;
+	color: #E68A00;
+ }
+ a:link
+ {
+	color: #FF8000;
+	text-decoration: none;
+ }
+a:visited
+{
+	
+	color: #0099FF;
+	text-decoration: none;
+}
+a:hover
+{
+	color: #00A600;
+	text-decoration: none;
+}
+a:active
+{
+	color: #FF80BF;
+	text-decoration: none;
+}
+
